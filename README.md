@@ -9,6 +9,7 @@
 ![Angular](https://img.shields.io/badge/Angular-bd3535?style=for-the-badge&logo=angular&logoColor=white)
 
 #### CSS
+![Sass](https://img.shields.io/badge/Sass-e85172?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### Version Control
