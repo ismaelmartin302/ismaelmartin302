@@ -1,4 +1,4 @@
-![image](https://github.com/ismaelmartin302/ismaelmartin302/assets/149705500/7dd178e2-f66b-43f7-b6b5-de0355c6cae8)<h1 align="center">Welcome!</h1>
+<h1 align="center">Welcome!</h1>
 
 ## Technologies that I use
 
