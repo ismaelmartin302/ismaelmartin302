@@ -54,5 +54,5 @@
 
 
 # Social
-![Linkedin]([https://img.shields.io/badge/linkedin-%23087EBB?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/linkedin-Ismael-%23087EBB?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ismmargar))
+![Linkedin](https://img.shields.io/badge/linkedin-Ismael-%23087EBB?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ismmargars)
 
