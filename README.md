@@ -30,7 +30,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
+<br><br>
 ## Other
 
 #### Text Editor and IDEs 
@@ -51,7 +51,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-00084d?style=for-the-badge&logo=astro&logoColor=white)
 
-
+<br><br>
 # Social
 ![Linkedin](https://img.shields.io/badge/linkedin-Ismael-%23087EBB?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ismmargars)
 
