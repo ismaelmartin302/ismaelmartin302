@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 5em">Welcome!</p>
+<p align="center" style="font-size: 15em">Welcome!</p>
 
 # Technologies that I use
 ### JavaScript / TypeScript
