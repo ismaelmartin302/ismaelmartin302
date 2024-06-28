@@ -1,5 +1,5 @@
 <h1 align="center" >Welcome!</h1>
-<br><br>
+<br/> <br/>
 # Technologies that I use
 ### JavaScript / TypeScript
 ![JavaScript](https://img.shields.io/badge/Javascript-%23f6ff00?style=for-the-badge&logo=javascript&logoColor=black)
