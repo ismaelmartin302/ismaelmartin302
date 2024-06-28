@@ -1,9 +1,6 @@
 <h1 align="center">Welcome!</h1>
 
 # Technologies that I use
-
-## Main technologies: 
-
 ### JavaScript / TypeScript
 ![JavaScript](https://img.shields.io/badge/Javascript-%23f6ff00?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/Typescript-%232F74C0?style=for-the-badge&logo=typescript&logoColor=white)
