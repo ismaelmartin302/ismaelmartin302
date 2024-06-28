@@ -33,6 +33,11 @@
 <br><br>
 ## Other
 
+### Design
+![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9809?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-%2338ABFF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![InDesign](https://img.shields.io/badge/InDesign-%23FF396B?style=for-the-badge&logo=adobeindesign&logoColor=white)
+
 #### Text Editor and IDEs 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
