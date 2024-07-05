@@ -1,62 +1,150 @@
-<h1 align="center" >Welcome!</h1>
-<br><br>
+<h1 align="left">Hi 👋! My name is Ismael</h1>
 
-# Technologies that I use
-### JavaScript / TypeScript
-![JavaScript](https://img.shields.io/badge/Javascript-%23f6ff00?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/Typescript-%232F74C0?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-bd3535?style=for-the-badge&logo=angular&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+###
 
-### PhP
-![PhP](https://img.shields.io/badge/Php-075391?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-orange?style=for-the-badge&logo=laravel&logoColor=black)
+<h3 align="left">A passionate fullstack developer👨‍💻</h3>
 
-### CSS
-![Sass](https://img.shields.io/badge/Sass-e85172?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+###
 
-### Version Control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ismaelmartin302&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ismaelmartin302&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+###
 
-### Other Languages
-![Java](https://img.shields.io/badge/Java-%23DA4838?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-ffdf29?style=for-the-badge&logo=python)
+<p align="left">🌱 I'm currently learning **Java, Springboot and React**</p>
 
+###
 
-### Databases 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<h2 align="left">Connect with me:</h2>
 
-<br><br>
-## Other
+###
 
-#### Design
-![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9809?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-%2338ABFF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![InDesign](https://img.shields.io/badge/InDesign-%23FF396B?style=for-the-badge&logo=adobeindesign&logoColor=white)
+<div align="left">
+  <a href="https://www.linkedin.com/in/ismmargar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:ismaelmartin302@proton.me" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://join.slack.com/t/slack-r1m4944/shared_invite/zt-2mi86nkv4-L_kvW8HJdXu3I_Aqk_kO7g" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
+  </a>
+</div>
 
-#### Text Editor and IDEs 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+###
 
+<h2 align="left">Languages and Tools:</h2>
 
-#### Wordpress
-![Wordpress](https://img.shields.io/badge/Wordpress-%23207196?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-%23AB003A?style=for-the-badge&logo=elementor&logoColor=white)
+###
 
+<br clear="both">
 
-#### I'm currently learning
-![Springboot](https://img.shields.io/badge/Springboot-brightgreen?style=for-the-badge&logo=springboot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-00084d?style=for-the-badge&logo=astro&logoColor=white)
+<h4 align="left">Frontend</h4>
 
-<br><br>
-# Social
-![Linkedin](https://img.shields.io/badge/linkedin-Ismael-%23087EBB?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ismmargars)
-![Mail](https://img.shields.io/badge/mail-%23DB3A2D?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ismaelmartin302@proton.me)
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h4 align="left">Backend</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo.png" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://static-00.iconduck.com/assets.00/php-icon-256x256-oq5bc0bt.png" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h4 align="left">Database</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-mariadb-226022.png?f=webp" height="40" alt="mariadb logo"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h4 align="left">Tools</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/475654/github-color.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" height="40" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" height="40" alt="photoshop logo"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h4 align="left">Other</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/109_Elementor_logo_logos-512.png" height="40" alt="elementor logo"  />
+</div>
+
+###
+
+<img align="right" height="155" src="https://media2.giphy.com/media/3oKIPnAiaMCws8nOsE/200w.gif?cid=6c09b9526y1bofzwx8pweg0f6fbeo1x80yzxlfcviitfjld8&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
+
+###
