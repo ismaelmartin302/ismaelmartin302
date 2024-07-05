@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ismael</h1>
+
 ![Linkedin](https://img.shields.io/badge/linkedin-%23087EBB?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ismmargars)
 ![gmail](https://img.shields.io/badge/mail-%23DB3A2D?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ismaelmartin302@proton.me)
+
 <h3 align="center">A passionate fullstack developer from Spain</h3>
 
 - 🌱 I'm currently learning **Java, Springboot and React**
