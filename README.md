@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">🌱 I'm currently learning **Java, Springboot and React**</p>
+🌱 I'm currently learning **Java, Springboot and React**
 
 ###
 
@@ -22,24 +22,16 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ismmargar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:ismaelmartin302@proton.me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://join.slack.com/t/slack-r1m4944/shared_invite/zt-2mi86nkv4-L_kvW8HJdXu3I_Aqk_kO7g" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
-  </a>
+  
+  ![Linkedin](https://img.shields.io/badge/linkedin-%23087EBB?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ismmargars)
+  ![gmail](https://img.shields.io/badge/mail-%23DB3A2D?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ismaelmartin302@proton.me)
+  
 </div>
 
 ###
 
 <h2 align="left">Languages and Tools:</h2>
 
-###
-
-<br clear="both">
 
 <h4 align="left">Frontend</h4>
 
