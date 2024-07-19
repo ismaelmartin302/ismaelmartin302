@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">A passionate fullstack developer👨‍💻</h3>
+<h3 align="left">A passionate fullstack web developer👨‍💻</h3>
 
 ###
 
