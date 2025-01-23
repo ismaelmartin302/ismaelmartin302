@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ismaelmartin302&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+<!--   <img src="https://streak-stats.demolab.com?user=ismaelmartin302&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ismaelmartin302&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -106,7 +106,7 @@
 ###
 
 <div align="left">
-  <img src="https://blog.postman.com/wp-content/uploads/2018/04/logo-mark-300x300.png" height="40" alt="postman logo"  />
+<!--   <img src="https://blog.postman.com/wp-content/uploads/2018/04/logo-mark-300x300.png" height="40" alt="postman logo"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
